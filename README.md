@@ -1,2 +1,2 @@
-# 2D-game-projects
+# Game-Projects
 My 2D Game projects using Unity Engine
